@@ -3,6 +3,8 @@ qiankun-base(vue2)
 qiankun-vue(vue2)  
 qiankun-react(react18)  
 
+## 先分别解压3个包，实际上子模块应遵循submodule规则来提交代码
+
 ## qiankun-base step:
 cd qiankun-base  
 npm install  
